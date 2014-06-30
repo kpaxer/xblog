@@ -12,3 +12,4 @@ git remote add origin https://github.com/kpaxer/xblog.git
 git push -u origin master
 
 test
+zy_test
